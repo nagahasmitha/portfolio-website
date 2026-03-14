@@ -127,11 +127,15 @@ Original vs Adversarial Images
 
 
 Example:
+![Original Image](original_cat.png)
 
-original_cat.png
-fgsm_cat.png
-pgd_cat.png
+![FGSM Attack](fgsm_cat.png)
 
+![PGD Attack](pgd_cat.png)
+
+![GAN Attack](gan_cat.png)
+
+![GAN+PGD Attack](hybrid_cat.png)
 
 
 
