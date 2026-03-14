@@ -138,11 +138,10 @@ Adversarial noise can cause critical failures in robotic perception systems.
 
 Example Results
 Original vs Adversarial Samples
-Input Image Example:
-
-
 Adversarial Output Example:
-
+cat.jpeg
+frog.jpeg
+ship.jpeg
 
 (Additional attack results for FGSM, PGD, GAN, and Hybrid models are included in the repository.)
 
